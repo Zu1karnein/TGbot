@@ -1,4 +1,4 @@
-# TGbot
+# TGbotAiogramResaurant
 
 this is a telegram bot that accepts orders of various types (fast food, pizza, drinks)  
 some features don't work  
